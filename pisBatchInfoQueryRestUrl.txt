@@ -1,0 +1,38 @@
+{
+	"ret": "0",
+	"msg": null,
+	"data": [
+		{
+			"waybillNo": "SF6310000590066",
+			"initDeliveryTm": 1665590340000,
+			"initDeliveryTmEffPeriodBeginTm": 1665583260000,
+			"initDeliveryTmEffPeriodEndTm": 1665590340000,
+			"initDeliveryZoneCode": "739JA",
+			"latestDeliveryTm": 1665547200000,
+			"latestDeliveryTmEffPeriodBeginTm": 1665504000000,
+			"latestDeliveryTmEffPeriodEndTm": 1665547200000,
+			"latestDeliveryZoneCode": "739JA",
+			"vagueDeliveryTm": 1665590340000,
+			"dynamicExpectedDeliveryTm": 1665547200000,
+			"dateAddTm": "",
+			"deliverServiceTm": "",
+			"stay": false
+		},
+		{
+			"waybillNo": "SF1342792225807",
+			"initDeliveryTm": 1668175200000,
+			"initDeliveryTmEffPeriodBeginTm": 1668175260000,
+			"initDeliveryTmEffPeriodEndTm": 1668175200000,
+			"initDeliveryZoneCode": "734AB",
+			"latestDeliveryTm": 1668300640196,
+			"latestDeliveryTmEffPeriodBeginTm": 1668268800000,
+			"latestDeliveryTmEffPeriodEndTm": 1668312000000,
+			"latestDeliveryZoneCode": "734AB",
+			"vagueDeliveryTm": 1668175200000,
+			"dynamicExpectedDeliveryTm": 1668300640196,
+			"dateAddTm": "",
+			"deliverServiceTm": "",
+			"stay": false
+		}
+	]
+}

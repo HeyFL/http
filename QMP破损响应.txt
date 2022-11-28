@@ -1,0 +1,22 @@
+{
+	"respCode": "0000",
+	"message": "success",
+	"data": [
+		{
+			"waybillNo": "SF2031384319228",
+			"discoverNode": "卸车",
+			"externalCondition": "外包装破洞",
+			"goodsCondition": "无异常",
+			"externalConditionInner": "内包装无异常",
+			"packageReinforceType": "对原包装进行加固",
+			"reportEmpCode": "40563647",
+			"reportDeptCode": "852WB",
+			"reportTime": "2022-10-15 11:40:38",
+			"complainChannel": "AWSM-中转上报",
+			"matterDetail": "内包装情况：内包装无异常；包装加固情况：对原包装进行加固",
+			"matterType": 2,
+			"matterId": "214657816152043405",
+			"discoverNodeCode": "852WB"
+		}
+	]
+}

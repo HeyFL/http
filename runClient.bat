@@ -1,0 +1,1 @@
+cmd /k run_C.bat

@@ -1,0 +1,131 @@
+{
+	"success": true,
+	"obj": {
+		"pickupCheckInfo": {
+			"sysCode": "SGS",
+			"waybillNo": "SF1370017123649",
+			"reportTm": 1660112237000,
+			"reportEmpCode": "01390559",
+			"zoneCode": "020AWE",
+			"ruleTitle": "五易两冷派件检视",
+			"picList": [
+				{
+					"picType": "41",
+					"picId": "666479498987_20220922140620"
+				},
+				{
+					"picType": "50",
+					"picId": "666479498987_20220922140620"
+				},
+				{
+					"picType": "160",
+					"picId": "666479498987_20220922140620"
+				}
+			],
+			"materialList": [
+				{
+					"serviceName": "包装服务",
+					"materialName": "纸箱1",
+					"quantity": 2
+				},
+				{
+					"serviceName": "包装服务",
+					"materialName": "纸箱2",
+					"quantity": 2
+				}
+			],
+			"mainClassList": [
+				{
+					"pageName": "物品检视",
+					"checkResult": [
+						{
+							"title": "1、物品商品包装（销售包装）检查",
+							"content": "包装已拆开|包装破损"
+						},
+						{
+							"title": "1、物品商品包装（销售包装）检查",
+							"content": "包装破损"
+						},
+						{
+							"title": "2、物品外观检查",
+							"content": "物品有破损或异常",
+							"detail": "hcthjydsgvd"
+						}
+					]
+				},
+				{
+					"pageName": "内包装",
+					"checkResult": [
+						{
+							"title": "请确认是否可以进行“封箱贴纸内置”操作",
+							"content": "已完成放入袋中操作"
+						}
+					]
+				},
+				{
+					"pageName": "外包装",
+					"checkResult": []
+				}
+			]
+		},
+		"deliveryCheckInfo": {
+			"sysCode": "SGS",
+			"waybillNo": "SF1370017123649",
+			"reportTm": 1660112237000,
+			"reportEmpCode": "01390559",
+			"zoneCode": "020AWE",
+			"ruleTitle": "五易两冷派件检视",
+			"picList": [
+				{
+					"picType": "161",
+					"picId": "666479498987_20220922140620"
+				}
+			],
+			"materialList": [
+				{
+					"serviceName": "包装服务",
+					"materialName": "纸箱1",
+					"quantity": 2
+				},
+				{
+					"serviceName": "包装服务",
+					"materialName": "纸箱2",
+					"quantity": 2
+				}
+			],
+			"mainClassList": [
+				{
+					"pageName": "物品检视",
+					"checkResult": [
+						{
+							"title": "1、物品商品包装（销售包装）检查",
+							"content": "包装已拆开|包装破损"
+						},
+						{
+							"title": "1、物品商品包装（销售包装）检查",
+							"content": "包装破损"
+						},
+						{
+							"title": "2、物品外观检查",
+							"content": "物品有破损或异常",
+							"detail": "hcthjydsgvd"
+						}
+					]
+				},
+				{
+					"pageName": "内包装",
+					"checkResult": [
+						{
+							"title": "请确认是否可以进行“封箱贴纸内置”操作",
+							"content": "已完成放入袋中操作"
+						}
+					]
+				},
+				{
+					"pageName": "外包装",
+					"checkResult": []
+				}
+			]
+		}
+	}
+}
